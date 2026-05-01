@@ -1,0 +1,8 @@
+name = "everdraft-landing-page"
+compatibility_date = "2026-05-01"
+pages_build_output_dir = "./everdraft-site"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "everdraft-waitlist"
+database_id = "0e652de2-8944-4fec-a4a8-a2a73981ae7c"
